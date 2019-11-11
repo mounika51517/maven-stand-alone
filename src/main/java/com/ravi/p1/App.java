@@ -8,7 +8,7 @@ package com.ravi.p1;
 {
     public static void main( String[] args )
     {
-        System.out.println( "Working with Jenkins webhook trigger" );
+        System.out.println( "Working with Jenkins through push1" );
         System.out.println( "Testing Webhooks" );
     }
 }
